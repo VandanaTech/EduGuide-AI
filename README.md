@@ -250,7 +250,10 @@ This repository contains a full-stack Node/Express server bundled cleanly to Com
 - 🎯 SDG 4 – Quality Education aligned
 
 ---
+## 🌐 Live Demo
 
+[https://eduguide-ai.onrender.com](https://eduguide-ai-ge47.onrender.com)
+---
 ## 📄 License
 
 This project is open-source and released under the **MIT License**.
