@@ -1,0 +1,8 @@
+{
+  "name": "EduGuide AI – Personalized Learning & Career Mentor",
+  "description": "Empowering quality education (SDG 4) with personalized AI tutoring, smart quizzes, career roadmaps, study planning, and curated learning resources.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
