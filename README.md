@@ -161,12 +161,106 @@ This repository contains a full-stack Node/Express server bundled cleanly to Com
 
 ---
 
-## 📄 License
+---
 
-This project is open-source and released under the **[MIT License](LICENSE)**.
+# 📸 Project Screenshots
+
+## 🏠 Home Page
+
+![Home Page](screenshots/HomePage.png)
 
 ---
 
-<p center="text-center">
-  Crafted with ❤️ for quality education worldwide (UN SDG 4).
+## 📊 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## 🤖 AI Tutor
+
+### AI Tutor Interface
+
+![AI Tutor](screenshots/AI%20Tutor.png)
+
+### AI Tutor Response 1
+
+![AI Tutor 1](screenshots/AI%20tutor(1).png)
+
+### AI Tutor Response 2
+
+![AI Tutor 2](screenshots/AI%20tutor(2).png)
+
+---
+
+## 📝 AI Quiz
+
+![AI Quiz](screenshots/AI%20quiz.png)
+
+---
+
+## ✅ Quiz Evaluation
+
+![Quiz Evaluation](screenshots/quiz%20evaluation.png)
+
+---
+
+## 🗺️ Career Roadmap
+
+![Career Roadmap](screenshots/Carrer%20Roadmap.png)
+
+---
+
+## 📅 Study Planner
+
+![Study Planner](screenshots/Study%20planner.png)
+
+---
+
+## 📚 Learning Resources
+
+![Learning Resources](screenshots/Learning%20resources.png)
+
+---
+
+## 💬 Botpress AI Assistant
+
+![Botpress AI](screenshots/AI%20bot.png)
+
+---
+
+## 🌙 Dark & Light Mode
+
+![Dark & Light Mode](screenshots/dark%20and%20light%20mode.png)
+
+---
+
+# ⭐ Highlights
+
+- 🤖 AI Tutor powered by Google Gemini API
+- 📝 AI-generated adaptive quizzes
+- 📊 Student analytics dashboard
+- 🗺️ Semester-wise career roadmap generation
+- 📅 Smart AI study planner
+- 📚 Curated free learning resources
+- 💬 Botpress AI Assistant integrated with custom **Ask AI** button
+- 🌙 Light & Dark theme support
+- 🎤 Voice input & Text-to-Speech support
+- ♿ Accessibility Toolbar
+- 🎯 SDG 4 – Quality Education aligned
+
+---
+
+## 📄 License
+
+This project is open-source and released under the **MIT License**.
+
+---
+
+<p align="center">
+
+Built with ❤️ using **React, TypeScript, Express.js, Google Gemini AI & Botpress**
+
+Supporting **United Nations Sustainable Development Goal 4 – Quality Education**
+
 </p>
