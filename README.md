@@ -85,6 +85,7 @@ eduguide-ai/
 - **Frontend**: React 19, TypeScript, Tailwind CSS v4, Motion (framer-motion), Recharts, Lucide React Icons.
 - **Backend**: Express.js, TypeScript runtime via `tsx`, bundled with `esbuild`.
 - **AI Core**: `@google/genai` (Google Gemini SDK) with model fallback retry architecture (`gemini-3.6-flash`, `gemini-flash-latest`, `gemini-3.1-flash-lite`).
+- **Conversational AI**: Botpress Cloud Webchat.
 - **Voice APIs**: Browser Web Speech API (SpeechRecognition & SpeechSynthesis).
 - **Build Tools**: Vite 6, esbuild, TypeScript Compiler (`tsc`).
 
